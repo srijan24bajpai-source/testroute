@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.routepilot",
+      "sha256_cert_fingerprints": ["OWNER: SHA-256 of your Play App Signing certificate (Play Console > Setup > App signing)"]
+    }
+  }
+]
